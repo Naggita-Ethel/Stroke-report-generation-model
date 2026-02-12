@@ -1,0 +1,1 @@
+This project implements an end-to-end automated radiology report generation system for stroke CT scans using BLIP (Bootstrapping Language-Image Pre-training), a vision-language transformer model. The complete pipeline spans from raw medical data extraction to trained model deployment.
